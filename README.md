@@ -2,7 +2,7 @@
 
 ## I build things for the web.
 
-- 🔭 I just launched my own Agency: [https://hashtagvisual.com]!
+- 🔭 I just launched my own Agency: [https://hashtagvisual.com]
 - 🌱 I’m currently learning machine learning 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
