@@ -1,8 +1,8 @@
 ### Hi there, I'm Khaled Saifullah - [ksnirob][https://ksnirob.info] 👋
 
-## I'm a Developer, and Trainer!!
+## I build things for the web.
 
-- 🔭 I just launched my own Agency: [#Visual][https://hashtagvisual.com]!
+- 🔭 I just launched my own Agency: [https://hashtagvisual.com]!
 - 🌱 I’m currently learning machine learning 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
