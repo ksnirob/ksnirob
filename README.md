@@ -1,4 +1,4 @@
-### Hi there, I'm Khaled Saifullah - [ksnirob][https://ksnirob.info] 👋
+### Hi there, I'm Khaled Saifullah - [https://ksnirob.info] 👋
 
 ## I build things for the web.
 
