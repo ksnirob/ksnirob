@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 Interested in **Web Development and UI/UX design.**
+- 🔥 Interested in **Web Development and UI/UX design.**
 
 - 🌍 I'm mostly active within the Web Development Community
 
