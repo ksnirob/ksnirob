@@ -1,15 +1,17 @@
 <h1 align="left">Hi 👋, I'm Khaled Saifullah</h1>
 <h3 align="left">I build things for the web.</h3>
 
-- 🔭 I’m currently working at **Wunderman Thompson Dhaka**
+- 🏢 I’m currently working at **Wunderman Thompson Dhaka**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 Interested in **Web Development and UI/UX design.**
 
+- 🌍 I'm mostly active within the Web Development Community
+
 - 👨‍💻 All of my projects are available at [ksnirob.info](ksnirob.info)
 
-- 💬 Ask me about **react, SASS**
+- 💬 Ping me about **React, SASS**
 
 - 📫 Reach me at **ksnirob@gmail.com**
 
