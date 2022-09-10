@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Khaled Saifullah</h1>
 <h3 align="left">I build things for the web.</h3>
 
-- 🏢 I’m currently working at **Wunderman Thompson Dhaka**
+- 🏢 I’m currently working at **Wunderman Thompson**
 
 - 🌱 I’m currently learning **MERN Stack**
 
