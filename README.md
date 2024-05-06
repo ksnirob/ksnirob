@@ -9,7 +9,7 @@
 
 - 🌍 I'm mostly active within the Web Development Community
 
-- 👨‍💻 All of my projects are available at [ksnirob.com](ksnirob.com)
+- 👨‍💻 All of my projects are available at <a href="https://ksnirob.com" target="blank">ksnirob.com</a>
 
 - 💬 Ping me about **React, SASS**
 
