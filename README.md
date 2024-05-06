@@ -9,7 +9,7 @@
 
 - 🌍 I'm mostly active within the Web Development Community
 
-- 👨‍💻 All of my projects are available at <a href="https://ksnirob.com" target="blank">ksnirob.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://ksnirob.com" target="_blank">ksnirob.com</a>
 
 - 💬 Ping me about **React, SASS**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ksnirob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksnirob" height="30" width="40" /></a>
-<a href="https://fb.com/neeeerob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeeerob" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ksnirob" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksnirob" height="30" width="40" /></a>
+<a href="https://fb.com/neeeerob" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeeerob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
